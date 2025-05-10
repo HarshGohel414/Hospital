@@ -1,0 +1,982 @@
+[09-Feb-2023 11:55:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/index.php on line 16
+[09-Feb-2023 11:55:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/amarnath/public_html/index.php on line 18
+[09-Feb-2023 11:55:22 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/amarnath/public_html/index.php on line 19
+[09-Feb-2023 11:55:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/index.php on line 247
+[09-Feb-2023 11:55:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/admin/template/connect.php on line 7
+[09-Feb-2023 11:55:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/amarnath/public_html/gallery.php on line 32
+[09-Feb-2023 11:55:44 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/amarnath/public_html/gallery.php on line 34
+[09-Feb-2023 11:55:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/admin/template/connect.php on line 7
+[09-Feb-2023 11:55:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/amarnath/public_html/gallery.php on line 32
+[09-Feb-2023 11:55:55 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/amarnath/public_html/gallery.php on line 34
+[09-Feb-2023 11:57:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/index.php on line 16
+[09-Feb-2023 11:57:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/amarnath/public_html/index.php on line 18
+[09-Feb-2023 11:57:46 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/amarnath/public_html/index.php on line 19
+[09-Feb-2023 11:57:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/index.php on line 247
+[09-Feb-2023 11:58:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/admin/template/connect.php on line 7
+[09-Feb-2023 11:58:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/amarnath/public_html/gallery.php on line 32
+[09-Feb-2023 11:58:52 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/amarnath/public_html/gallery.php on line 34
+[09-Feb-2023 11:58:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/index.php on line 16
+[09-Feb-2023 11:58:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/amarnath/public_html/index.php on line 18
+[09-Feb-2023 11:58:55 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/amarnath/public_html/index.php on line 19
+[09-Feb-2023 11:59:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/index.php on line 16
+[09-Feb-2023 11:59:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/amarnath/public_html/index.php on line 18
+[09-Feb-2023 11:59:04 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/amarnath/public_html/index.php on line 19
+[09-Feb-2023 11:59:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/index.php on line 16
+[09-Feb-2023 11:59:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/amarnath/public_html/index.php on line 18
+[09-Feb-2023 11:59:17 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/amarnath/public_html/index.php on line 19
+[09-Feb-2023 12:01:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/admin/template/connect.php on line 7
+[09-Feb-2023 12:01:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/amarnath/public_html/gallery.php on line 32
+[09-Feb-2023 12:01:28 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/amarnath/public_html/gallery.php on line 34
+[09-Feb-2023 12:09:38 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[09-Feb-2023 12:09:38 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[09-Feb-2023 12:09:38 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[09-Feb-2023 12:09:38 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[09-Feb-2023 12:52:34 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[09-Feb-2023 12:52:34 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[09-Feb-2023 12:52:34 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[09-Feb-2023 12:52:34 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[09-Feb-2023 13:24:12 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[09-Feb-2023 13:24:12 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[09-Feb-2023 13:24:12 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[09-Feb-2023 13:45:40 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[09-Feb-2023 13:45:40 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[09-Feb-2023 13:45:40 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[09-Feb-2023 13:45:40 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[09-Feb-2023 15:03:47 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[09-Feb-2023 15:03:47 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[09-Feb-2023 15:03:47 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[09-Feb-2023 15:03:47 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[09-Feb-2023 15:06:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amarnath/public_html/profile-update.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/amarnath/public_html/profile-update.php on line 40
+[09-Feb-2023 15:06:28 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[09-Feb-2023 15:06:28 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[09-Feb-2023 15:06:28 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[09-Feb-2023 15:06:28 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[09-Feb-2023 15:06:37 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[09-Feb-2023 15:06:37 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[09-Feb-2023 15:06:37 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[09-Feb-2023 15:06:37 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[09-Feb-2023 20:12:48 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[09-Feb-2023 20:12:48 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[09-Feb-2023 20:12:48 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[09-Feb-2023 20:12:48 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[10-Feb-2023 05:17:37 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[10-Feb-2023 05:17:37 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[10-Feb-2023 05:17:37 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[10-Feb-2023 05:18:32 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[10-Feb-2023 05:18:32 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[10-Feb-2023 05:18:32 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[10-Feb-2023 05:18:32 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[10-Feb-2023 10:27:32 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[10-Feb-2023 10:27:32 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[10-Feb-2023 10:27:32 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[10-Feb-2023 10:27:32 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[10-Feb-2023 11:30:23 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[10-Feb-2023 11:30:23 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[10-Feb-2023 11:30:23 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[10-Feb-2023 11:52:46 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[10-Feb-2023 11:52:46 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[10-Feb-2023 11:52:46 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[10-Feb-2023 11:52:46 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[10-Feb-2023 12:12:23 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[10-Feb-2023 12:12:23 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[10-Feb-2023 12:12:23 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[10-Feb-2023 12:12:23 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[10-Feb-2023 12:24:07 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[10-Feb-2023 12:24:07 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[10-Feb-2023 12:24:07 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[10-Feb-2023 12:24:07 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[10-Feb-2023 12:26:31 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[10-Feb-2023 12:26:31 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[10-Feb-2023 12:26:31 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[10-Feb-2023 12:26:31 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[10-Feb-2023 12:26:51 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[10-Feb-2023 12:26:51 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[10-Feb-2023 12:26:51 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[10-Feb-2023 12:26:51 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[10-Feb-2023 16:09:53 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[10-Feb-2023 16:09:53 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[10-Feb-2023 16:09:53 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[10-Feb-2023 17:57:16 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[10-Feb-2023 17:57:16 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[10-Feb-2023 17:57:16 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[10-Feb-2023 17:57:16 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[10-Feb-2023 19:47:31 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[10-Feb-2023 19:47:31 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[10-Feb-2023 19:47:31 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[10-Feb-2023 19:47:31 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[10-Feb-2023 19:47:43 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[10-Feb-2023 19:47:43 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[10-Feb-2023 19:47:43 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[10-Feb-2023 19:47:50 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[10-Feb-2023 19:47:50 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[10-Feb-2023 19:47:50 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[10-Feb-2023 19:47:50 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[10-Feb-2023 19:48:02 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[10-Feb-2023 19:48:02 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[10-Feb-2023 19:48:02 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[12-Feb-2023 04:18:20 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[12-Feb-2023 04:18:20 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[12-Feb-2023 04:18:20 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[12-Feb-2023 06:01:57 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[12-Feb-2023 06:01:57 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[12-Feb-2023 06:01:57 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[12-Feb-2023 21:27:56 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[12-Feb-2023 21:27:56 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[12-Feb-2023 21:27:56 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[12-Feb-2023 21:27:56 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[13-Feb-2023 11:50:20 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[13-Feb-2023 11:50:20 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[13-Feb-2023 11:50:20 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[13-Feb-2023 11:50:20 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[13-Feb-2023 12:21:40 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[13-Feb-2023 12:21:40 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[13-Feb-2023 12:21:40 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[13-Feb-2023 12:21:40 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[13-Feb-2023 12:22:11 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[13-Feb-2023 12:22:11 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[13-Feb-2023 12:22:11 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[13-Feb-2023 12:22:11 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[13-Feb-2023 14:17:33 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[13-Feb-2023 14:17:33 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[13-Feb-2023 14:17:33 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[13-Feb-2023 14:17:33 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[13-Feb-2023 14:17:37 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[13-Feb-2023 14:17:37 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[13-Feb-2023 14:17:37 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[14-Feb-2023 12:26:22 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[14-Feb-2023 12:26:22 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[14-Feb-2023 12:26:22 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[14-Feb-2023 12:26:22 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[14-Feb-2023 12:59:17 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[14-Feb-2023 12:59:17 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[14-Feb-2023 12:59:17 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[14-Feb-2023 12:59:17 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[14-Feb-2023 18:41:40 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[14-Feb-2023 18:41:40 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[14-Feb-2023 18:41:40 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[15-Feb-2023 07:52:34 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[15-Feb-2023 07:52:34 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[15-Feb-2023 07:52:34 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[16-Feb-2023 06:19:33 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[16-Feb-2023 06:19:33 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[16-Feb-2023 06:19:33 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[16-Feb-2023 11:29:18 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[16-Feb-2023 11:29:18 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[16-Feb-2023 11:29:18 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[16-Feb-2023 11:35:21 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[16-Feb-2023 11:35:21 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[16-Feb-2023 11:35:21 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[16-Feb-2023 11:35:21 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[16-Feb-2023 12:08:51 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[16-Feb-2023 12:08:51 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[16-Feb-2023 12:08:51 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[16-Feb-2023 12:08:51 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[16-Feb-2023 12:21:48 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[16-Feb-2023 12:21:48 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[16-Feb-2023 12:21:48 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[16-Feb-2023 12:21:48 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[16-Feb-2023 12:25:50 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[16-Feb-2023 12:25:50 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[16-Feb-2023 12:25:50 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[16-Feb-2023 12:25:50 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[16-Feb-2023 19:26:08 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[16-Feb-2023 19:26:08 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[16-Feb-2023 19:26:08 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[16-Feb-2023 19:26:08 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[17-Feb-2023 11:31:44 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[17-Feb-2023 11:31:44 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[17-Feb-2023 11:31:44 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[17-Feb-2023 11:31:44 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[18-Feb-2023 00:36:54 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[18-Feb-2023 00:36:54 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[18-Feb-2023 00:36:54 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[18-Feb-2023 20:21:56 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[18-Feb-2023 20:21:56 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[18-Feb-2023 20:21:56 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[18-Feb-2023 23:24:53 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[18-Feb-2023 23:24:53 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[18-Feb-2023 23:24:53 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[19-Feb-2023 06:48:24 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[19-Feb-2023 06:48:24 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[19-Feb-2023 06:48:24 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[19-Feb-2023 11:20:48 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[19-Feb-2023 11:20:48 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[19-Feb-2023 11:20:48 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[19-Feb-2023 11:20:48 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[19-Feb-2023 11:21:11 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[19-Feb-2023 11:21:11 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[19-Feb-2023 11:21:11 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[19-Feb-2023 13:59:35 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[19-Feb-2023 13:59:35 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[19-Feb-2023 13:59:35 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[19-Feb-2023 17:55:38 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[19-Feb-2023 17:55:38 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[19-Feb-2023 17:55:38 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[20-Feb-2023 01:19:00 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[20-Feb-2023 01:19:00 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[20-Feb-2023 01:19:00 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[20-Feb-2023 09:35:27 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[20-Feb-2023 09:35:27 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[20-Feb-2023 09:35:27 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[20-Feb-2023 13:55:12 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[20-Feb-2023 13:55:12 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[20-Feb-2023 13:55:12 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[20-Feb-2023 16:52:48 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[20-Feb-2023 16:52:48 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[20-Feb-2023 16:52:48 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[20-Feb-2023 21:18:14 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[20-Feb-2023 21:18:14 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[20-Feb-2023 21:18:14 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[21-Feb-2023 04:41:06 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[21-Feb-2023 04:41:06 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[21-Feb-2023 04:41:07 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[21-Feb-2023 13:34:06 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[21-Feb-2023 13:34:06 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[21-Feb-2023 13:34:06 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[21-Feb-2023 13:34:06 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[22-Feb-2023 07:51:04 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[22-Feb-2023 07:51:04 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[22-Feb-2023 07:51:04 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[22-Feb-2023 07:51:04 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[22-Feb-2023 07:51:57 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[22-Feb-2023 07:51:57 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[22-Feb-2023 07:51:57 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[22-Feb-2023 08:52:19 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[22-Feb-2023 08:52:19 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[22-Feb-2023 08:52:19 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[22-Feb-2023 08:52:19 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[22-Feb-2023 09:29:21 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[22-Feb-2023 09:29:21 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[22-Feb-2023 09:29:21 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[24-Feb-2023 04:20:25 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[24-Feb-2023 04:20:25 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[24-Feb-2023 04:20:25 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[24-Feb-2023 04:20:25 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[24-Feb-2023 09:37:09 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[24-Feb-2023 09:37:09 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[24-Feb-2023 09:37:09 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[24-Feb-2023 09:37:14 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[24-Feb-2023 09:37:14 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[24-Feb-2023 09:37:14 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[24-Feb-2023 09:37:44 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[24-Feb-2023 09:37:44 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[24-Feb-2023 09:37:44 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[24-Feb-2023 09:37:47 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[24-Feb-2023 09:37:47 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[24-Feb-2023 09:37:47 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[24-Feb-2023 09:37:47 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[24-Feb-2023 09:40:47 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[24-Feb-2023 09:40:47 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[24-Feb-2023 09:40:47 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[24-Feb-2023 09:40:47 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[24-Feb-2023 09:41:09 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[24-Feb-2023 09:41:09 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[24-Feb-2023 09:41:09 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[24-Feb-2023 09:41:09 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[24-Feb-2023 09:41:24 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[24-Feb-2023 09:41:24 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[24-Feb-2023 09:41:24 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[24-Feb-2023 09:58:14 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[24-Feb-2023 09:58:14 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[24-Feb-2023 09:58:14 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[24-Feb-2023 09:58:14 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[24-Feb-2023 17:22:04 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[24-Feb-2023 17:22:04 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[24-Feb-2023 17:22:04 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[24-Feb-2023 17:22:04 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[24-Feb-2023 17:58:15 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[24-Feb-2023 17:58:15 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[24-Feb-2023 17:58:15 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[24-Feb-2023 17:58:15 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[24-Feb-2023 17:58:56 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[24-Feb-2023 17:58:56 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[24-Feb-2023 17:58:56 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[24-Feb-2023 17:58:56 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[24-Feb-2023 18:06:38 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[24-Feb-2023 18:06:38 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[24-Feb-2023 18:06:38 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[24-Feb-2023 18:06:38 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[27-Feb-2023 08:17:07 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[27-Feb-2023 08:17:07 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[27-Feb-2023 08:17:07 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[27-Feb-2023 08:17:07 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[27-Feb-2023 08:17:12 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[27-Feb-2023 08:17:12 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[27-Feb-2023 08:17:12 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[27-Feb-2023 12:15:35 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[27-Feb-2023 12:15:35 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[27-Feb-2023 12:15:35 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[27-Feb-2023 12:15:35 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[27-Feb-2023 12:15:53 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[27-Feb-2023 12:15:53 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[27-Feb-2023 12:15:53 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[27-Feb-2023 12:15:53 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[27-Feb-2023 12:16:30 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[27-Feb-2023 12:16:30 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[27-Feb-2023 12:16:30 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[27-Feb-2023 12:16:30 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[27-Feb-2023 14:42:08 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[27-Feb-2023 14:42:08 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[27-Feb-2023 14:42:08 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[27-Feb-2023 14:42:09 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/appointment.php on line 3
+[27-Feb-2023 14:42:09 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 8
+[27-Feb-2023 14:42:09 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 86
+[27-Feb-2023 14:42:09 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/appointment.php on line 126
+[27-Feb-2023 15:32:42 UTC] PHP Notice:  Undefined index: login in /home/amarnath/public_html/profile.php on line 3
+[27-Feb-2023 15:32:42 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 8
+[27-Feb-2023 15:32:42 UTC] PHP Notice:  Undefined index: email in /home/amarnath/public_html/profile.php on line 33
+[02-Mar-2023 07:08:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 07:09:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 07:09:20 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 07:09:20 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 07:09:20 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 07:09:20 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 07:09:20 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 07:09:44 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 07:09:50 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 07:09:53 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 07:09:53 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 07:09:53 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 07:09:53 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 07:09:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 07:09:57 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/profile.php on line 3
+[02-Mar-2023 07:09:57 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 8
+[02-Mar-2023 07:09:57 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 33
+[02-Mar-2023 07:09:58 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 07:09:58 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/profile.php on line 3
+[02-Mar-2023 07:09:58 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 8
+[02-Mar-2023 07:09:58 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 33
+[02-Mar-2023 07:09:58 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 07:10:04 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/profile.php on line 3
+[02-Mar-2023 07:10:04 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 8
+[02-Mar-2023 07:10:04 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 33
+[02-Mar-2023 07:10:05 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 11:58:57 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 11:58:57 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 11:58:57 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 11:58:57 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 11:58:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 11:59:06 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 11:59:09 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 11:59:09 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 11:59:09 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 11:59:09 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 11:59:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 11:59:18 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 11:59:27 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 11:59:27 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 11:59:27 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 11:59:27 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 11:59:27 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 11:59:46 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 11:59:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 11:59:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:00:02 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 12:00:02 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 12:00:02 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:00:02 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:00:02 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:02:04 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:02:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:02:14 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 12:02:14 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 12:02:14 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:02:14 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:02:14 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:04:06 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:04:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:04:14 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 12:04:14 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 12:04:14 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:04:14 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:04:14 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:04:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:04:26 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 12:04:26 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 12:04:26 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:04:26 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:04:27 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:04:28 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 12:04:28 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 12:04:28 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:04:28 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:04:28 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:04:30 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:04:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:04:34 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 12:04:34 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 12:04:34 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:04:34 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:04:34 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:04:36 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 12:04:36 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 12:04:36 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:04:36 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:04:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:04:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:04:45 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 12:04:45 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 12:04:45 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:04:45 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:04:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:06:38 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:06:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:06:49 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 12:06:49 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 12:06:49 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:06:49 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:06:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:07:48 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:07:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:07:57 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 12:07:57 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 12:07:57 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:07:57 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:07:58 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:08:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:08:54 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 12:08:54 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 12:08:54 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:08:54 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:09:42 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 12:09:42 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 12:09:42 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:09:42 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:09:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:09:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:09:55 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 12:09:55 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 12:09:55 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:09:55 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:09:55 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:12:21 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:12:27 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:12:31 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 12:12:31 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:14:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:14:31 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:14:33 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 12:14:33 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 12:14:33 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:14:33 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:14:33 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:15:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/ragistration.php on line 87
+[02-Mar-2023 12:16:02 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:16:06 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 12:16:06 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 12:16:06 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:16:06 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:16:06 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:17:29 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:17:38 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:17:40 UTC] PHP Warning:  Undefined variable $_SESSION in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:17:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:17:40 UTC] PHP Warning:  Undefined variable $_SESSION in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:17:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:18:04 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 12:18:04 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 12:18:04 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:18:04 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:18:04 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:18:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:18:15 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 12:18:15 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 12:18:15 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:18:15 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:18:15 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:18:25 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 12:18:25 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 12:18:25 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:18:25 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:18:25 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:21:27 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:21:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:21:37 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 12:21:37 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 12:21:37 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:21:37 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:21:37 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:21:45 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 12:21:45 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 12:21:45 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:21:45 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:21:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:23:38 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:23:48 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[02-Mar-2023 12:23:49 UTC] PHP Warning:  Undefined variable $_SESSION in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:23:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:23:49 UTC] PHP Warning:  Undefined variable $_SESSION in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:23:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:28:46 UTC] PHP Warning:  Undefined variable $_SESSION in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:28:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:28:46 UTC] PHP Warning:  Undefined variable $_SESSION in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:28:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:29:04 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[02-Mar-2023 12:29:04 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[02-Mar-2023 12:29:04 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[02-Mar-2023 12:29:04 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[02-Mar-2023 12:29:04 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 09:56:06 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:02:02 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:02:25 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:02:26 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 10:02:26 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 10:02:26 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 10:02:26 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 10:02:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:02:55 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:02:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:03:03 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:03:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:03:24 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 10:03:24 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 10:03:24 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 10:03:24 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 10:03:24 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:03:27 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 10:03:27 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 10:03:27 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 10:03:27 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 10:03:27 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:06:33 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:06:36 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 10:06:36 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 10:06:36 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 10:06:36 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 10:06:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:06:39 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 10:06:39 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 10:06:39 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 10:06:39 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 10:06:39 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:06:55 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:06:56 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 10:06:56 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 10:06:56 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 10:06:56 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 10:06:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:07:00 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/profile.php on line 3
+[03-Mar-2023 10:07:00 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 8
+[03-Mar-2023 10:07:00 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 33
+[03-Mar-2023 10:07:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:07:02 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/profile.php on line 3
+[03-Mar-2023 10:07:02 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 8
+[03-Mar-2023 10:07:02 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 33
+[03-Mar-2023 10:07:02 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:07:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:09:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:09:52 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 10:09:52 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 10:09:52 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 10:09:52 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 10:09:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:10:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:10:11 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 10:10:11 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 10:10:11 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 10:10:11 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 10:10:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:10:16 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 10:10:16 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 10:10:16 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 10:10:16 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 10:10:16 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:15:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:25:03 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 10:25:03 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 10:25:03 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 10:25:03 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 10:25:03 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:25:15 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:25:17 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 10:25:17 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 10:25:17 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 10:25:17 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 10:25:17 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:27:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:27:39 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:27:45 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 10:27:45 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 10:27:45 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 10:27:45 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 10:27:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:27:52 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/profile.php on line 3
+[03-Mar-2023 10:27:52 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 8
+[03-Mar-2023 10:27:52 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 33
+[03-Mar-2023 10:27:53 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:33:07 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:33:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:33:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:33:28 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 10:38:53 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 10:38:53 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 10:38:53 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 10:38:53 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 10:38:53 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:39:02 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:40:40 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:40:53 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:44:57 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 10:44:57 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 10:44:57 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 10:44:57 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 10:44:58 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:56:07 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:56:17 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:56:22 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 10:56:22 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 10:56:22 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 10:56:22 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 10:56:22 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:56:30 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/profile.php on line 3
+[03-Mar-2023 10:56:30 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 8
+[03-Mar-2023 10:56:30 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 33
+[03-Mar-2023 10:56:30 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:56:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:56:48 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 10:56:52 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 10:56:52 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 10:56:52 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 10:56:52 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 10:56:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:01:33 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 11:01:33 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 11:01:33 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 11:01:33 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 11:01:34 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:01:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:01:47 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 11:01:47 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 11:01:47 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 11:01:47 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 11:01:47 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:02:06 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/profile.php on line 3
+[03-Mar-2023 11:02:06 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 8
+[03-Mar-2023 11:02:06 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 33
+[03-Mar-2023 11:02:06 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:07:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:07:06 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:07:17 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:07:21 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 11:07:21 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 11:07:21 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 11:07:21 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 11:07:21 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:12:48 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:42:10 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 11:42:10 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 11:42:10 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 11:42:10 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 11:42:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:42:16 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:42:23 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 11:42:23 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 11:42:23 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 11:42:23 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 11:42:26 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 11:42:26 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 11:42:26 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 11:42:26 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 11:42:30 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 11:42:30 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 11:42:30 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 11:42:30 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 11:42:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:42:33 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 11:42:33 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 11:42:33 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 11:42:33 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 11:42:34 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:43:47 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 11:43:47 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 11:43:47 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 11:43:47 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 11:43:47 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:43:50 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 11:43:50 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 11:43:50 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 11:43:50 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 11:43:50 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:44:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:44:04 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 11:44:04 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 11:44:04 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 11:44:04 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 11:44:04 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:46:19 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 11:46:19 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 11:46:19 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 11:46:19 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 11:46:19 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:46:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/ragistration.php on line 12
+[03-Mar-2023 11:46:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/ragistration.php on line 12
+[03-Mar-2023 11:46:56 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 11:46:56 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 11:46:56 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 11:46:56 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 11:46:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:47:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:47:58 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 11:47:58 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 11:47:58 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 11:47:58 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 11:47:58 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:57:41 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:57:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/ragistration.php on line 12
+[03-Mar-2023 11:57:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:57:47 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:57:48 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:57:51 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 11:57:51 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 11:57:51 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 11:57:51 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 11:57:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:57:51 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 11:57:51 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 11:57:51 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 11:57:51 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 11:57:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:57:55 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:58:00 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 11:58:00 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 11:58:00 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 11:58:00 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 11:58:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:58:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:58:19 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 11:58:27 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:00:33 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:00:33 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 12:00:33 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 12:00:33 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 12:00:33 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:01:27 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:02:05 UTC] PHP Parse error:  syntax error, unexpected variable "$email" in /home/amarnath/public_html/login.php on line 22
+[03-Mar-2023 12:02:39 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:02:39 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 12:02:39 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 12:02:39 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 12:02:40 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:02:40 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:02:40 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 12:02:40 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 12:02:40 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 12:02:41 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:02:44 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:02:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:02:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:02:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:03:02 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:03:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:03:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:03:25 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:04:19 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:05:25 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:05:34 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:05:38 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:05:38 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 12:05:38 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 12:05:39 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:05:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:05:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:05:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:06:01 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:06:01 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 12:06:01 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 12:06:01 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:06:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:06:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/ragistration.php on line 12
+[03-Mar-2023 12:06:45 UTC] PHP Warning:  Undefined variable $_SESSION in /home/amarnath/public_html/ragistration.php on line 13
+[03-Mar-2023 12:06:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/amarnath/public_html/ragistration.php on line 13
+[03-Mar-2023 12:06:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amarnath/public_html/ragistration.php:1) in /home/amarnath/public_html/ragistration.php on line 15
+[03-Mar-2023 12:07:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/ragistration.php on line 12
+[03-Mar-2023 12:07:09 UTC] PHP Warning:  Undefined variable $_SESSION in /home/amarnath/public_html/ragistration.php on line 13
+[03-Mar-2023 12:07:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/amarnath/public_html/ragistration.php on line 13
+[03-Mar-2023 12:07:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amarnath/public_html/ragistration.php:1) in /home/amarnath/public_html/ragistration.php on line 15
+[03-Mar-2023 12:07:13 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:07:13 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 12:07:13 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 12:07:13 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 12:07:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:07:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:07:53 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:07:53 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 7
+[03-Mar-2023 12:07:53 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 85
+[03-Mar-2023 12:07:53 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 125
+[03-Mar-2023 12:07:53 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:08:03 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:08:07 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:08:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:08:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:08:13 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:08:13 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 12:08:13 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 12:08:13 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 12:08:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:08:17 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:08:17 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 12:08:17 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 12:08:17 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 12:08:17 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:08:21 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/profile.php on line 3
+[03-Mar-2023 12:08:21 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 8
+[03-Mar-2023 12:08:21 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 33
+[03-Mar-2023 12:08:21 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:09:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:09:23 UTC] PHP Warning:  Undefined variable $_SESSION in /home/amarnath/public_html/login.php on line 5
+[03-Mar-2023 12:09:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/amarnath/public_html/login.php on line 5
+[03-Mar-2023 12:09:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amarnath/public_html/login.php:1) in /home/amarnath/public_html/login.php on line 7
+[03-Mar-2023 12:09:29 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:09:29 UTC] PHP Warning:  Undefined variable $_SESSION in /home/amarnath/public_html/login.php on line 5
+[03-Mar-2023 12:09:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/amarnath/public_html/login.php on line 5
+[03-Mar-2023 12:09:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amarnath/public_html/login.php:1) in /home/amarnath/public_html/login.php on line 7
+[03-Mar-2023 12:09:32 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:09:32 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 12:09:32 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 12:09:32 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 12:09:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:09:32 UTC] PHP Warning:  Undefined variable $_SESSION in /home/amarnath/public_html/login.php on line 5
+[03-Mar-2023 12:09:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/amarnath/public_html/login.php on line 5
+[03-Mar-2023 12:09:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amarnath/public_html/login.php:1) in /home/amarnath/public_html/login.php on line 7
+[03-Mar-2023 12:09:53 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:10:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:10:05 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:10:05 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 12:10:05 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 12:10:05 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 12:10:05 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:11:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:11:19 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:11:23 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:11:23 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 12:11:23 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 12:11:23 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 12:11:24 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:12:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:13:14 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:13:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:13:31 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:13:35 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:13:35 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 12:13:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/appointment.php on line 34
+[03-Mar-2023 12:13:35 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 12:13:35 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 12:13:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:14:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/appointment.php on line 34
+[03-Mar-2023 12:14:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/appointment.php on line 34
+[03-Mar-2023 12:16:17 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/profile.php on line 3
+[03-Mar-2023 12:16:17 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 8
+[03-Mar-2023 12:16:17 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 33
+[03-Mar-2023 12:16:18 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:16:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:16:59 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:18:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:18:40 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:18:40 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 12:18:40 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 12:18:40 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 12:18:40 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:18:42 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:18:42 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 12:18:42 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 12:18:42 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 12:18:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:18:55 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:19:11 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:19:11 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 12:19:11 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 12:19:11 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 12:19:11 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:19:21 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:19:27 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:19:27 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 12:19:27 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 12:19:27 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 12:19:27 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:19:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:28:22 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:28:30 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:28:35 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:28:35 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 12:28:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/appointment.php on line 34
+[03-Mar-2023 12:28:35 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 12:28:35 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 12:28:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:28:40 UTC] PHP Warning:  Undefined array key "login_main" in /home/amarnath/public_html/profile.php on line 3
+[03-Mar-2023 12:28:40 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 8
+[03-Mar-2023 12:28:40 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 33
+[03-Mar-2023 12:28:40 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:29:29 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:29:34 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:29:34 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 12:29:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/appointment.php on line 34
+[03-Mar-2023 12:29:34 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 12:29:34 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 12:29:34 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:32:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:32:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:32:49 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:32:49 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 12:32:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/appointment.php on line 34
+[03-Mar-2023 12:32:49 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 12:32:49 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 12:32:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:33:41 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:33:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:34:41 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:34:41 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 12:34:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/appointment.php on line 34
+[03-Mar-2023 12:34:41 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 12:34:41 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 12:34:41 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:34:50 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:34:53 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:34:53 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 12:34:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/appointment.php on line 34
+[03-Mar-2023 12:34:53 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 12:34:53 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 12:34:53 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:36:24 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:36:37 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:36:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:37:01 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:37:01 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 12:37:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/appointment.php on line 34
+[03-Mar-2023 12:37:01 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 12:37:01 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 12:37:01 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:40:58 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:41:01 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:41:03 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:41:17 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:41:21 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:41:21 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 12:41:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/appointment.php on line 34
+[03-Mar-2023 12:41:21 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 12:41:21 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 12:41:22 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:43:02 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:43:02 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 12:43:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/appointment.php on line 34
+[03-Mar-2023 12:43:02 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 12:43:02 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 12:43:03 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:43:25 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[03-Mar-2023 12:43:29 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/appointment.php on line 3
+[03-Mar-2023 12:43:29 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 8
+[03-Mar-2023 12:43:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarnath/public_html/appointment.php on line 34
+[03-Mar-2023 12:43:29 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 86
+[03-Mar-2023 12:43:29 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/appointment.php on line 126
+[03-Mar-2023 12:43:29 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[04-Mar-2023 04:05:20 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/profile.php on line 3
+[04-Mar-2023 04:05:20 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 8
+[04-Mar-2023 04:05:20 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 33
+[04-Mar-2023 04:05:20 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[04-Mar-2023 04:05:39 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
+[04-Mar-2023 04:05:46 UTC] PHP Warning:  Undefined array key "login" in /home/amarnath/public_html/profile.php on line 3
+[04-Mar-2023 04:05:46 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 8
+[04-Mar-2023 04:05:46 UTC] PHP Warning:  Undefined array key "email" in /home/amarnath/public_html/profile.php on line 33
+[04-Mar-2023 04:05:46 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/amarnath/public_html/login.php on line 4
